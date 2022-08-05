@@ -1,4 +1,4 @@
-# Easyyibiao
+# Easyyibiao Fork By Baidu-Detection
 物体检测离线标注工具
 
 
